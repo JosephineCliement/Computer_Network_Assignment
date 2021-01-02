@@ -51,9 +51,86 @@ Power Consumption-medium                                                        
 security:-highly secure                                                                                 less secure
 primary devices:-Notebook computers,desktop computer,servers                                         Mobile phones,mouse ,keyboard and offices. 
                                                                                                   
-
+==================================================================================================================================================================
 3) Discuss different Types of Computer Viruses
-
+========================================================================================================================================================================
 4) Differentiate between Twisted pair, Coaxial cable & fibre optics
+Ans)
+TYPES OF CABLE IN COMPUTER NETWORKS
+1. Twisted-pair cable :-
+     A twisted pair cable comprises of two separate insulated copper wires ,which are  together in a twisted pattern and running them parallel to each other. 
+       This type of cable is widely used in different kinds of data and voice infrastructures.
+
+      · Used for:-Twisted-pair cable is a type of cabling that is used for telephone communications and most modern Ethernet networks.
+       A pair of wires forms a circuit that can transmit data.
+       
+       · Advantages- 
+       1. inexpensive and readily available.
+       2.flexible and light weight
+       3.easy to set up and install.
+       
+      · Disadvantages-
+       1. low bandwidth
+       2.transmission limits.
+       
+2.Coaxial cable:-
+    it is a type of cable that has an inner conductor surrounded by an insulating layer, surrounded by a conductive shielding.
+    Many also have an insulating outer jacket The diagram below illustrates the construction of a typical cable. Electrical signal flows through the center conductor.
+
+
+   · Used for:-Coaxial cable is used as a transmission line for radio frequency signals. Its applications include feedlines connecting radio transmitters 
+    and receivers to their antennas, computer network (e.g., Ethernet) connections, digital audio (S/PDIF), and distribution of cable television signals.
+
+    · Advantages-
+   1.Higher bandwith than twisted pair.
+   2.cheap to install
+   3.high transmission rate
+   4.higher noise immunity
+
+   · Disadvantages-
+   1.Comparatively costly
+   2.security problem
+   3.expensive compared to twisted pair cables.
+
+3. Fiber optic cable:-
+   A fiber-optic cable, also known as an optical-fiber cable, is an assembly similar to an electrical cable, but containing one or more optical fibers 
+   that are used to carry light. The optical fiber elements are typically individually coated with plastic layers and contained in a protective tube suitable
+   for the environment where the cable will be deployed. 
+
+
+   · Used for:-Optical fibers are used most often as a means to transmit light between the two ends of the fiber and find wide usage in fiber-optic
+   communications ,where they permit
+    transmmision over longer distances and at higher bandwidth than electrical cables.
+    
+    · Advantages-
+   1. Huge bandwidth
+   2. flexible 
+   3. faster data transmission
+   
+  · Disadvantages-
+  1.difficult to install and modify
+  2. costs more than twisted pair cable and coaxial cable
+  3. it takes a higher level of training and skill to terminate fibre.
+  
+ Signal transmission	-
+    Twisted pair -Takes place in the electrical form over the metallic conducting wires.	
+    Coaxial cable -Takes place in the electrical form over the inner conductor of cable.	
+    Fibre optic -Takes place in an optical form over a glass fiber.
+    
+Cause of power-	
+    twisted pair -Power loss due to conduction and radiation.
+    coaxial cable-	Power loss due to conduction.
+    fibre optic-	power loss due to absorption, scattering and bending.
+    
+Bandwidth -
+    twisted pair -Twisted pair cable has low bandwidth.	
+    coaxial cable-Co-axial cable has moderately high bandwidth.	
+    fibre optic -Optical fiber cable has very high bandwidth.
+    
+Installation -
+     twisted pair -Easy installation.	
+     coaxial cable -Fairy easy installation.	
+     fibre optic -Difficult to install.
+=================================================================================================================================================================
 
 5) What is Phishing?
